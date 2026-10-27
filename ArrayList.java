@@ -1,5 +1,5 @@
-package CollectionFramework;
+package SSMCollectionFramework;
 
-public interface ArrayList {
+public class ArrayList {
 
 }
